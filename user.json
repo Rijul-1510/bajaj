@@ -1,0 +1,8 @@
+{
+    "user_id": "12345",
+    "college_email": "student@college.edu",
+    "roll_number": "2024CS001",
+    "numbers": [1, 2, 3, 4],
+    "alphabets": ["a", "B", "c", "d", "E"]
+  }
+  
